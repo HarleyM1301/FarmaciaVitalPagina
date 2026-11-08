@@ -4,8 +4,10 @@ Sitio web estático de demostración, en español y adaptable a móvil. No depen
 
 La navegación enlaza a Inicio, Servicios, Nosotros y Contacto.
 
-## Publicar en GitHub Pages
+## Publicación
 
-Crea un repositorio público llamado `FarmaciaVital`, sube estos archivos a la rama `main` y, en **Settings → Pages**, selecciona **Deploy from a branch**, rama **main** y carpeta **/(root)**.
+Repositorio independiente sugerido: `HarleyM1301/FarmaciaVitalPagina`.
 
-La dirección será `https://harleym1301.github.io/FarmaciaVital/`.
+Al subir estos archivos a la rama `main`, activa GitHub Pages desde **Settings → Pages** eligiendo **Deploy from a branch**, rama **main** y carpeta **/(root)**. La dirección será:
+
+https://harleym1301.github.io/FarmaciaVitalPagina/
